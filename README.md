@@ -347,7 +347,7 @@ export function GiveMeFiveDonutsPlease() {
 }
 ```
 
-For a real-world robust example visit the [documentation for `setItemQuantity`](<https://use-shopping-cart.app/usage/setItemQuantity()>).
+For a real-world robust example visit the [documentation for `setItemQuantity`](<https://useshoppingcart.com/usage/setItemQuantity()>).
 
 ## API
 
